@@ -1,4 +1,5 @@
 # React Native Date Picker [![npm](https://img.shields.io/npm/v/react-native-date-picker.svg)](https://www.npmjs.com/package/react-native-date-picker) [![Build status](https://img.shields.io/github/workflow/status/henninghall/react-native-date-picker/Android:%20build%20&%20test?label=tests)](https://github.com/henninghall/react-native-date-picker/actions) [![npm](https://img.shields.io/npm/dm/react-native-date-picker.svg)](https://www.npmjs.com/package/react-native-date-picker)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmyatphyokyaw2%2Freact-native-date-picker.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmyatphyokyaw2%2Freact-native-date-picker?ref=badge_shield)
 
 This is a React Native Date Picker with following main features:
 
@@ -344,3 +345,7 @@ React Native Date Picker is a cross platform component for iOS and Android. It u
 If you like this package, consider giving it a github star ⭐
 
 Also, PR's are welcome!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmyatphyokyaw2%2Freact-native-date-picker.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmyatphyokyaw2%2Freact-native-date-picker?ref=badge_large)
